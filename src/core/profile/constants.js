@@ -1,0 +1,6 @@
+export const PROFILE_REQUESTED 	        = '@profile/REQUESTED'
+export const PROFILE_REQUESTED_SUCCESS 	= '@profile/REQUESTED_SUCCESS'
+export const PROFILE_REQUESTED_ERROR 		= '@profile/REQUESTED_ERROR'
+export const PROFILE_UPDATED 		        = '@profile/UPDATED'
+export const PROFILE_UPDATED_SUCCESS    = '@profile/UPDATED_SUCCESS'
+export const PROFILE_UPDATED_ERROR 		  = '@profile/UPDATED_ERROR'

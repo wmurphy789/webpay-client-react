@@ -1,0 +1,6 @@
+export const MESSAGES_REQUESTED			             = '@messages/MESSAGES_REQUESTED_START'
+export const MESSAGES_REQUESTED_SUCCESS 	       = '@messages/MESSAGES_REQUESTED_SUCCESS'
+export const MESSAGES_REQUESTED_ERROR 	         = '@messages/MESSAGES_REQUESTED_ERROR'
+export const MESSAGE_CREATE_SUCCESS              = '@message/CREATE_SUCCESS'
+export const MESSAGE_CREATE_ERROR 			         = '@message/CREATE_ERROR'
+export const CREATE_MESSAGE                      = '@message/CREATE_MESSAGE'
